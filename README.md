@@ -3,8 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuujeong%2Fhit-counter&count_bg=%23AE8BFF&title_bg=%23555555&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--<h2 align="center">Passion and Perseverance,</h2>-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A131C9&repeat=false&random=false&width=435&lines=Passion+and+Perseverance)](https://git.io/typing-svg)
-<i>the words that best describe me. I aim to delve deep into the fields of machine learning and deep learning. My goal is to develop a profound theoretical understanding and practical application skills. I am adept at predicting and analyzing data patterns through machine learning techniques and understanding complex features extraction from large datasets using deep learning algorithms. Building on this knowledge, I aspire to create innovative solutions.</i> 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A131C9&center=true&random=false&width=435&lines=Passion+and+Perseverance)](https://git.io/typing-svg)
+<i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the words that best describe me. I aim to delve deep into the fields of machine learning and deep learning. My goal is to develop a profound theoretical understanding and practical application skills. I am adept at predicting and analyzing data patterns through machine learning techniques and understanding complex features extraction from large datasets using deep learning algorithms. Building on this knowledge, I aspire to create innovative solutions.</i> 
 
 
 
@@ -19,7 +19,8 @@
   </br>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></a>&nbsp 
 </p>
-<h4 align="center"> 🐍 My primary programming language is </h4>
+<!--<h4 align="center"> 🐍 My primary programming language is </h4>-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=732CB7&center=true&random=false&width=435&lines=%F0%9F%90%8D+My+primary+programming+language+is)](https://git.io/typing-svg)
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   </br>
