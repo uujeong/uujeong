@@ -51,6 +51,12 @@
   <img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-1B17F5?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>&nbsp
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>&nbsp
 </p>
+
+<img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></a>&nbsp
+<img alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>&nbsp
+<img alt="iterm" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a>&nbsp
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/></a>&nbsp
+https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white
 <h4 align="center"> 💌 Contact me </h4>
 <p align="center">
   <img alt="Mail" href="dada207@naver.com" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp
