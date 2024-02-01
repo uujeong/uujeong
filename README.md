@@ -15,6 +15,8 @@
 <p align="center"> My primary programming language </p>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uujeong&layout=compact"><br><br>
 </p>
 <p align="center"> Version control </p>
 <p align="center">
@@ -43,7 +45,6 @@
 </p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uujeong&layout=compact"><br><br>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=120&section=footer&reversal=true&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&animation=twinkling)
