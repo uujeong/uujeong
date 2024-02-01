@@ -2,7 +2,7 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuujeong%2Fhit-counter&count_bg=%23AE8BFF&title_bg=%23555555&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h2 align="center">🔧 Tech Stack 🔨</h2>
-<h4 align="center"> Techs that I've used at least once </h4>
+<h4 align="center"> 🌱 Techs that I've used at least once </h4>
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp 
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></a>&nbsp
@@ -12,18 +12,20 @@
   </br>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></a>&nbsp 
 </p>
-<h4 align="center"> My primary programming language </h4>
+<h4 align="center"> 🐍 My primary programming language is </h4>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   </br>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uujeong&layout=compact"><br><br>
+  </p>
 </p>
-<h4 align="center"> Version control </h4>
+<h4 align="center"> 🚦 Version control </h4>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp
 </p>
-<h4 align="center"> The tech stack I am proficient and comfortable with </h4>
+<h4 align="center"> 💖 The tech stack I am proficient and comfortable with </h4>
 <p align="center">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>&nbsp
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>&nbsp
@@ -39,7 +41,7 @@
 </p>
 <h4 align="center"> 💌 Contact me </h4>
 <p align="center">
-  <img alt="Mail" href="dada207@naver.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp
+  <img alt="Mail" href="dada207@naver.com" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>&nbsp
 </p>
