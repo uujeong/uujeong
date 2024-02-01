@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=300&section=header&text=%F0%9F%A4%97%20Hi,%20I%27m%20YuJeong.&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&desc=Passionate%20about%20MLOps,%20NLP,%20and%20Computer%20Science&descSize=30&animation=twinkling)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=300&section=header&text=%F0%9F%A4%97%20Hi,%20I%27m%20YuJeong.&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&desc=Passionate%20about%20MLOps,%20NLP,%20and%20Computer%20Science&descSize=30&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=50&section=footer&text=%F0%9F%A4%97%20Hi,%20I%27m%20YuJeong.&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&animation=twinkling)
 <!--
 **uujeong/uujeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
