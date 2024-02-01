@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=300&section=header&text=%F0%9F%A4%97%20Hi,%20I%27m%20YuJeong.&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&desc=Passionate%20about%20MLOps,%20NLP,%20and%20Computer%20Science&descSize=25&animation=twinkling)
-### Passion and perseverance,
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuujeong%2Fhit-counter&count_bg=%23AE8BFF&title_bg=%23555555&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+<h2 align="center">Passion and perseverance,</h2>
  the words that best describe me. I aim to delve deep into the fields of machine learning and deep learning. My goal is to develop a profound theoretical understanding and practical application skills. I am adept at predicting and analyzing data patterns through machine learning techniques and understanding complex features extraction from large datasets using deep learning algorithms. Building on this knowledge, I aspire to create innovative solutions.
 
 
