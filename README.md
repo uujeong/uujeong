@@ -19,8 +19,7 @@
   </br>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></a>&nbsp 
 </p>
-<!--<h4 align="center"> 🐍 My primary programming language is </h4>-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=732CB7&center=true&random=false&width=435&lines=%F0%9F%90%8D+My+primary+programming+language+is)](https://git.io/typing-svg)
+<h4 align="center"> 🐍 My primary programming language is </h4>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   </br>
