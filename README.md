@@ -6,8 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A131C9&center=true&random=false&width=435&lines=Passion+and+Perseverance)](https://git.io/typing-svg)
 <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the words that best describe me. I aim to delve deep into the fields of machine learning and deep learning. My goal is to develop a profound theoretical understanding and practical application skills. I am adept at predicting and analyzing data patterns through machine learning techniques and understanding complex features extraction from large datasets using deep learning algorithms. Building on this knowledge, I aspire to create innovative solutions.</i> 
 
-
-
 <h2 align="center">🔧 Tech Stack 🔨</h2>
 <h4 align="center"> 🐍 My primary programming language is </h4>
 <p align="center">
@@ -50,6 +48,9 @@
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>&nbsp
 </p>
 <h4 align="center"> 🌱 Techs that I've used at least once </h4>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=100000&color=5F2497&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%B1+Techs+that+I've+used+at+least+once)](https://git.io/typing-svg)
+
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp 
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></a>&nbsp
