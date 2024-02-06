@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=300&section=header&text=%F0%9F%A4%97%20Hi,%20I%27m%20YuJeong,&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&desc=Passionated%20about%20MLOps,%20NLP,%20and%20Computer%20Science&descSize=25&animation=twinkling)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuujeong%2Fhit-counter&count_bg=%23AE8BFF&title_bg=%23555555&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<img src="https://img.shields.io/github/followers/uujeong?color=2396ED&label=Followers" alt="uujeong" />  
 <!--<h2 align="center">Passion and Perseverance,</h2>-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A131C9&center=true&random=false&width=435&lines=Passion+and+Perseverance)](https://git.io/typing-svg)
 <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the words that best describe me. I aim to delve deep into the fields of machine learning and deep learning. My goal is to develop a profound theoretical understanding and practical application skills. I am adept at predicting and analyzing data patterns through machine learning techniques and understanding complex features extraction from large datasets using deep learning algorithms. Building on this knowledge, I aspire to create innovative solutions.</i> 
