@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=300&section=header&text=%F0%9F%A4%97%20Hi,%20I%27m%20YuJeong.&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&desc=Passionate%20about%20MLOps,%20NLP,%20and%20Computer%20Science&descSize=25&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=300&section=header&text=%F0%9F%A4%97%20Hi,%20I%27m%20YuJeong,&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&desc=Passionated%20about%20MLOps,%20NLP,%20and%20Computer%20Science&descSize=25&animation=twinkling)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuujeong%2Fhit-counter&count_bg=%23AE8BFF&title_bg=%23555555&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -48,9 +48,6 @@
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>&nbsp
 </p>
 <h4 align="center"> 🌱 Techs that I've used at least once </h4>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=100000&color=5F2497&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%B1+Techs+that+I've+used+at+least+once)](https://git.io/typing-svg)
-
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></a>&nbsp 
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></a>&nbsp
