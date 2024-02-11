@@ -68,7 +68,7 @@
 <h4 align="center"> 💌 Contact me </h4>
 <p align="center">
   <img alt="Mail" href="mailto:dada207@naver.com" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
+  <img alt="LinkedIn" href="https://www.linkedin.com/in/yujeong-kim-25809a2b4/" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>&nbsp
 </p>
 
