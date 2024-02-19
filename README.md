@@ -12,6 +12,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A131C9&center=true&random=false&width=435&lines=Passion+and+Perseverance)](https://git.io/typing-svg)
 <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the words that best describe me. I aim to delve deep into the fields of machine learning and deep learning. My goal is to develop a profound theoretical understanding and practical application skills. I am adept at predicting and analyzing data patterns through machine learning techniques and understanding complex features extraction from large datasets using deep learning algorithms. Building on this knowledge, I aspire to create innovative solutions.</i> 
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class MLEngineer:
+
+    def __init__(self):
+        self.name = "YUJEONG KIM"
+        self.role = "MLEngineer"
+        self.language_spoken = ["ko_KR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 <h2 align="center">🔧 Tech Stack 🔨</h2>
 <h4 align="center"> 🐍 My primary programming language is </h4>
 <p align="center">
