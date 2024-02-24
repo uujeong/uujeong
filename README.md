@@ -16,20 +16,28 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class MLEngineer:
-
+class PassionateMLEngineer:
     def __init__(self):
         self.name = "YUJEONG KIM"
-        self.role = "MLEngineer"
-        self.language_spoken = ["ko_KR", "en_US"]
+        self.role = "Machine Learning & Deep Learning Enthusiast"
+        self.languages_spoken = ["ko_KR", "en_US"]
+        self.interests = ["Machine Learning", "Deep Learning", "Data Analysis"]
+        self.goal = "To develop a profound understanding and practical skills in ML & DL"
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    def greet(self):
+        print("Hello! I'm passionate about diving deep into Machine Learning and Deep Learning.")
 
+    def describe(self):
+        print("With a focus on both theory and application, I aim to predict and analyze data patterns,")
+        print("and understand complex feature extraction from large datasets.")
 
-me = MLEngineer()
-me.say_hi()
+    def aspire(self):
+        print("I'm on a journey to create innovative solutions through my knowledge and skills.")
+
+me = PassionateMLEngineer()
+me.greet()
+me.describe()
+me.aspire()
 ```
 ### 📔 Latest Blog posts
 
