@@ -10,7 +10,6 @@
 
 <!--<h2 align="center">Passion and Perseverance,</h2>-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A131C9&center=true&random=false&width=435&lines=Passion+and+Perseverance)](https://git.io/typing-svg)
-<i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the words that best describe me. I aim to delve deep into the fields of machine learning and deep learning. My goal is to develop a profound theoretical understanding and practical application skills. I am adept at predicting and analyzing data patterns through machine learning techniques and understanding complex features extraction from large datasets using deep learning algorithms. Building on this knowledge, I aspire to create innovative solutions.</i> 
 
 ```python
 #!/usr/bin/python
@@ -19,25 +18,19 @@
 class PassionateMLEngineer:
     def __init__(self):
         self.name = "YUJEONG KIM"
-        self.role = "Machine Learning & Deep Learning Enthusiast"
         self.languages_spoken = ["ko_KR", "en_US"]
-        self.interests = ["Machine Learning", "Deep Learning", "Data Analysis"]
-        self.goal = "To develop a profound understanding and practical skills in ML & DL"
+        self.interests = ["Machine Learning", "Vectorstore", "Develop"]
 
-    def greet(self):
-        print("Hello! I'm passionate about diving deep into Machine Learning and Deep Learning.")
-
-    def describe(self):
+    def focus(self):
         print("With a focus on both theory and application, I aim to predict and analyze data patterns,")
         print("and understand complex feature extraction from large datasets.")
 
-    def aspire(self):
-        print("I'm on a journey to create innovative solutions through my knowledge and skills.")
+    def goal(self):
+        print("Use my knowledge and skills to create innovative solutions and deepen my understanding and practical abilities.")
 
 me = PassionateMLEngineer()
-me.greet()
-me.describe()
-me.aspire()
+me.focus()
+me.goal()
 ```
 ### 📔 Latest Blog posts
 
