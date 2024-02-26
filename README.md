@@ -2,13 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuujeong%2Fhit-counter&count_bg=%23AE8BFF&title_bg=%23555555&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img src="https://img.shields.io/github/followers/uujeong?color=2396ED&label=Followers" alt="uujeong" />  
-[![Portfolio](https://img.shields.io/badge/🌟-Portfolio-pink)](https) 
+[![Portfolio](https://img.shields.io/badge/🌟-Portfolio-pink)](https)
 [![Blog](https://img.shields.io/badge/📝-Blog-yellow)](https://uujeong.github.io)
-[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dada207@naver.com)](mailto:dada207@naver.com) 
-
-
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dada207@naver.com)](mailto:dada207@naver.com)
 
 <!--<h2 align="center">Passion and Perseverance,</h2>-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A131C9&center=true&random=false&width=435&lines=Passion+and+Perseverance)](https://git.io/typing-svg)
 
 ```python
@@ -32,16 +31,21 @@ me = PassionateMLEngineer()
 me.focus()
 me.goal()
 ```
+
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
+<!-- BLOG-POST-LIST:END -->
+
+<!-- ### 📔 Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- - [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
 - [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
 - [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
 - [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
+- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)  -->
 
-  
 <h2 align="center">🔧 Tech Stack 🔨</h2>
 <h4 align="center"> 🐍 My primary programming language is </h4>
 <p align="center">
@@ -102,10 +106,8 @@ me.goal()
   <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>&nbsp
 </p>
 
-
-
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=120&section=footer&reversal=true&fontAlignY=35&fontSize=70&fontColor=ffffff&stroke=848484&animation=twinkling)
+
 <!--
 
 - 🔭 I’m currently working on ...
