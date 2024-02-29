@@ -18,7 +18,7 @@ class PassionateMLEngineer:
     def __init__(self):
         self.name = "YUJEONG KIM"
         self.languages_spoken = ["ko_KR", "en_US"]
-        self.interests = ["Machine Learning", "Vectorstore", "Develop"]
+        self.interests = ["Machine Learning", "Vectorstore", "Develop"]
 
     def focus(self):
         print("With a focus on both theory and application, I aim to predict and analyze data patterns,")
