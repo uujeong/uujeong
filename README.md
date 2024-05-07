@@ -55,7 +55,7 @@ me.goal()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uujeong&layout=compact"><br><br>
   </p>
 </p>
-<h4 align="center"> 🚦 Version control </h4>
+<!-- <h4 align="center"> 🚦 Version control </h4>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp
   <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp
@@ -98,7 +98,7 @@ me.goal()
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white"/></a>&nbsp
-</p>
+</p> -->
 <h4 align="center"> 💌 Contact me </h4>
 <p align="center">
   <img alt="Mail" href="mailto:dada207@naver.com" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp
