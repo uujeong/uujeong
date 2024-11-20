@@ -14,22 +14,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class PassionateMLEngineer:
-    def __init__(self):
-        self.name = "YUJEONG KIM"
-        self.languages_spoken = ["ko_KR", "en_US"]
-        self.interests = ["Machine Learning", "NLP"]
-
-    def focus(self):
-        print("With a focus on both theory and application, I aim to predict and analyze data patterns,")
-        print("and understand complex feature extraction from large datasets.")
-
-    def goal(self):
-        print("Use my knowledge and skills to create innovative solutions and deepen my understanding and practical abilities.")
-
-me = PassionateMLEngineer()
-me.focus()
-me.goal()
+print(hello!)
 ```
 
 ### 📔 Latest Blog posts
